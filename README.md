@@ -1,3 +1,7 @@
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 # Apismaria Website
 
 Proyecto web sobre protección de abejas y apicultura sostenible.
@@ -19,6 +23,10 @@ Proyecto web sobre protección de abejas y apicultura sostenible.
 ## Sitio web
 
 https://tuusuario.github.io/apismaria-website
+
+## Vista del proyecto
+
+![Apismaria](assets/screenshot.png)
 
 ## Autor
 
